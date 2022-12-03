@@ -12,8 +12,8 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 ***Changes***:
 >No release to change yet :/
 
-***Use***:
-This is not aimed towards people with 0 expierence in working with LUA, this is not a 'simple' dray and drop resource and does require some tinkering if you want to customise it!
+***How to use***:
+>This is not aimed towards people with 0 expierence in working with LUA, this is not a 'simple' dray and drop resource and does require some tinkering if you want to customise it!
 
 ***Support***:
 >https://discord.gg/WHHsDjm73Y
