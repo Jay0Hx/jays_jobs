@@ -9,4 +9,4 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 >something
 
 ***Changes***:
->No relase to change yet :/
+>No release to change yet :/
