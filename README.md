@@ -13,7 +13,7 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 >No release to change yet :/
 
 ***How to use***:
->This is not aimed towards people with 0 expierence in working with LUA, this is not a 'simple' dray and drop resource and does require some tinkering if you want to customise it!
+>This is **not** aimed towards people with 0 expierence in working with LUA, this is not a 'simple' drag and drop resource and does require some tinkering if you want to customise it! It will work out of the box in the latest release but if you want to create your own jobs you will need to have some knowledge with regards to registering events, triggering them and what you want to put inside these events.
 
 ***Support***:
 >https://discord.gg/WHHsDjm73Y
