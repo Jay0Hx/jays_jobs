@@ -10,3 +10,6 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 
 ***Changes***:
 >No release to change yet :/
+
+***Support***:
+>https://discord.gg/WHHsDjm73Y
