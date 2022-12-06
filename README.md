@@ -11,7 +11,7 @@
 [Config Explained](#config-explained)  
 </div>
 
-<details><summary>Does work</summary>
+<details><summary><h1 align="center">Installation</a></h1>  </summary>
     
 [hi](https://hello.ca)
     
