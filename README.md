@@ -18,8 +18,10 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 ***Support***:
 >https://discord.gg/WHHsDjm73Y
 
-<h1 align="center">Creating 'Blips'</a></h1> 
-> Head to 'client then job functions'
+<h1 align="center">Creating 'Blips'</a></h1>  
+
+>Head to 'client' then 'job_functions'  
+>Create a file labbeled the job that you are making, for example 'butcher.lua'
    
    ```sh
    2 > Navigate to your asseto corsa install location!
