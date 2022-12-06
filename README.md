@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Creating a job](#creating-a-job)
 * [Creating a function](#creating-a-function)
-* [Perfecting your config](#perfecting-your-config)
+* [Config Explained](#config-explained)
 </div>
 
 <h1 align="center">Installation</a></h1>  
@@ -24,7 +24,7 @@ AddEventHandler('jj_FUNCTIONNAME', function()
 end)
    ```  
    
-<h1 align="center">Perfecting your config</a></h1> 
+<h1 align="center">Config Explained</a></h1> 
 
    ```lua
 ------------------------------------------------------ EXAMPLE ------------------------------------------------------
