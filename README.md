@@ -3,11 +3,11 @@
     <img src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png?raw=true" alt="Logo" width="80" height="80">  
   </p>
     
-* [Installation](#installation)
-* [Usage](#usage)
-* [STDIN](#stdin)
-* [Local files](#local-files)
-* [Remote files](#remote-files)
+*[Installation](#installation)
+*[Usage](#usage)
+*[STDIN](#stdin)
+*[Local files](#local-files)
+*[Remote files](#remote-files)
 </div>
 
 
