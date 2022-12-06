@@ -5,7 +5,7 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png?raw=true" alt="Logo" width="80" height="80">
     
-    <!--ts-->
+
    * [Installation](#installation)
    * [Usage](#usage)
       * [STDIN](#stdin)
@@ -21,7 +21,6 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
    * [Docker](#docker)
      * [Local](#local)
      * [Public](#public)
-<!--te-->
   </a>
 
 
