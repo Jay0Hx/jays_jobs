@@ -16,7 +16,6 @@
     
 </details>
 
-
 <details><summary><h1 align="center">Creating a job</a></h1> </summary>
     
 [hi](https://hello.ca)
@@ -35,9 +34,9 @@ end)
    ``` 
     
 </details>
-  
-<h1 align="center">Config Explained</a></h1> 
 
+<details><summary><h1 align="center">Config Explained</a></h1> </summary>
+    
    ```lua
     [1] = { -- Purchase a Pickaxe!
     jj_blipName           = 'Buy A Pickaxe!',         - This is the blip name that will appear on the map.
@@ -54,7 +53,9 @@ end)
     jj_promptText         = '~g~Press [E] to ',       - This is what the floating text says at the listed coords (If enabled).
     functionName            = 'nwrp_dutyToggle',      - This links to 'job_functions'-'NAME.lua'.
     },
-   ```  
-   
+   ```
+    
+</details>
+ 
 <h1 align="center">What is 'jays_jobs'?</a></h1>  
 jays_jobs is my take on a replacement for esx_jobs, personally I feel that esx_jobs is not very well optimised and lacks some features such as easy customisation due to the way that its built etc... Anyway, in creating jays_jobs I wanted to add the ability to easily toggle peds, blips and 3DText at a set of coords, to do this I have used tables and almost everything is handled client side in less than 100 lines of code. I have put an example in the config for 'miner' job, you can remove this or keep it however use this as a base for making a new job. Look at 'Adding a job to config' for tips on how to get this perfect!
