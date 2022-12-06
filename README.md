@@ -41,8 +41,8 @@ end)
     h                       = 278.7386,                 - This is the heading (Only needed if you are using a PED model)
     nwrp_enablePed          = true,                     - Set this to false if you do not want a ped at this location!
     nwrp_enable3D           = true,                     - Set this to false if you do not want floating text on these coords.
-    nwrp_promptText         = '~g~Press [E] to purchase pickaxe!', 
-    functionName            = 'nwrp_dutyToggle',
+    nwrp_promptText         = '~g~Press [E] to ',       - This is what the floating text says at the listed coords (If enabled).
+    functionName            = 'nwrp_dutyToggle',        - This links to 'job_functions'-'NAME.lua'.
     },
    ```  
    
