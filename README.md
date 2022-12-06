@@ -30,19 +30,19 @@ end)
 ------------------------------------------------------ EXAMPLE ------------------------------------------------------
    
     [1] = { -- Purchase a Pickaxe!
-    nwrp_blipName           = 'Buy A Pickaxe!',         - This is the blip name that will appear on the map.
-    nwrp_blipType           = 68,                       - This is the blip type https://docs.fivem.net/docs/game-references/blips/
-    nwrp_blipScale          = 0.8,                      - This is the scale of the blip.
-    nwrp_blipColor          = 5,                        - This is the blip color that you want.
-    nwrp_enableBlip         = false,                    - Set this to false if you do not want a blip on the map for this location!
-    x                       = 2956.8997,                - X Coords
-    y                       = 2743.3557,                - Y Coords
-    z                       = 42.6568,                  - Z Coords
-    h                       = 278.7386,                 - This is the heading (Only needed if you are using a PED model)
-    nwrp_enablePed          = true,                     - Set this to false if you do not want a ped at this location!
-    nwrp_enable3D           = true,                     - Set this to false if you do not want floating text on these coords.
-    nwrp_promptText         = '~g~Press [E] to ',       - This is what the floating text says at the listed coords (If enabled).
-    functionName            = 'nwrp_dutyToggle',        - This links to 'job_functions'-'NAME.lua'.
+    jj_blipName           = 'Buy A Pickaxe!',         - This is the blip name that will appear on the map.
+    jj_blipType           = 68,                       - This is the blip type https://docs.fivem.net/docs/game-references/blips/
+    jj_blipScale          = 0.8,                      - This is the scale of the blip.
+    jj_blipColor          = 5,                        - This is the blip color that you want.
+    jj_enableBlip         = false,                    - Set this to false if you do not want a blip on the map for this location!
+    x                       = 2956.8997,              - X Coords
+    y                       = 2743.3557,              - Y Coords
+    z                       = 42.6568,                - Z Coords
+    h                       = 278.7386,               - This is the heading (Only needed if you are using a PED model)
+    jj_enablePed          = true,                     - Set this to false if you do not want a ped at this location!
+    jj_enable3D           = true,                     - Set this to false if you do not want floating text on these coords.
+    jj_promptText         = '~g~Press [E] to ',       - This is what the floating text says at the listed coords (If enabled).
+    functionName            = 'nwrp_dutyToggle',      - This links to 'job_functions'-'NAME.lua'.
     },
    ```  
    
