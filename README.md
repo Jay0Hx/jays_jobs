@@ -3,10 +3,10 @@
     <img src="https://github.com/othneildrew/Best-README-Template/blob/master/images/logo.png?raw=true" alt="Logo" width="80" height="80">  
   </p>
     
-[Installation](#installation)
-[Creating a job](#creating-a-job)
-[Creating a function](#creating-a-function)
-[Config Explained](#config-explained)
+[Installation](#installation)  
+[Creating a job](#creating-a-job)  
+[Creating a function](#creating-a-function)  
+[Config Explained](#config-explained)  
 </div>
 
 <h1 align="center">Installation</a></h1>  
