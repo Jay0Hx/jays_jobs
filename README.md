@@ -11,6 +11,17 @@
 [Config Explained](#config-explained)  
 </div>
 
+<details><summary>Does not work</summary>
+[hi](https://hello.ca)
+</details>
+
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
+
 <h1 align="center">Installation</a></h1>  
 
 <h1 align="center">Creating a job</a></h1> 
