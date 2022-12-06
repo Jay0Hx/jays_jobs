@@ -4,9 +4,9 @@
   </p>
     
 [Installation](#installation)
-* [Creating a job](#creating-a-job)
-* [Creating a function](#creating-a-function)
-* [Config Explained](#config-explained)
+[Creating a job](#creating-a-job)
+[Creating a function](#creating-a-function)
+[Config Explained](#config-explained)
 </div>
 
 <h1 align="center">Installation</a></h1>  
