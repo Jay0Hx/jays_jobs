@@ -27,8 +27,6 @@ end)
 <h1 align="center">Config Explained</a></h1> 
 
    ```lua
------------------------------------------------------- EXAMPLE ------------------------------------------------------
-   
     [1] = { -- Purchase a Pickaxe!
     jj_blipName           = 'Buy A Pickaxe!',         - This is the blip name that will appear on the map.
     jj_blipType           = 68,                       - This is the blip type https://docs.fivem.net/docs/game-references/blips/
