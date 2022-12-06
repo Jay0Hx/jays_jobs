@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Creating a job](#creating-a-job)
 * [Creating a function](#creating-a-function)
-* [Perfecting your config](#perfecting your config)
+* [Perfecting your config](#perfecting-your-config)
 </div>
 
 <h1 align="center">Installation</a></h1>  
