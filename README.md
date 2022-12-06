@@ -15,7 +15,7 @@ jays_jobs is my take on a replacement for esx_jobs, personally I feel that esx_j
 
 <details><summary><h1 align="center">Installation</a></h1> </summary>
     
-    1. something  
+    1. Download the latest release from my GitHub!
     2. something  
     3. something  
     
