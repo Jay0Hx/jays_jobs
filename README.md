@@ -23,9 +23,8 @@
     
 </details>
 
-
-<h1 align="center">Creating a function</a></h1>  
-
+<details><summary><h1 align="center">Creating a function</a></h1> </summary>
+    
    ```lua
 ------------------------------------------------------ EXAMPLE ------------------------------------------------------
    
@@ -33,8 +32,10 @@ RegisterNetEvent('jj_FUNCTIONNAME')
 AddEventHandler('jj_FUNCTIONNAME', function()
    -- YOUR FUNCTION HERE
 end)
-   ```  
-   
+   ``` 
+    
+</details>
+  
 <h1 align="center">Config Explained</a></h1> 
 
    ```lua
