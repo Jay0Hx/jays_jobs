@@ -24,8 +24,8 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 >Create a file labbeled the job that you are making, for example 'butcher.lua'
 >Paste the following text into that file
    
-   ```sh
-RegisterNetEvent('jj_FUNCTIONNAME') -- Working function for changing duty.
+   ```lua
+RegisterNetEvent('jj_FUNCTIONNAME')
 AddEventHandler('jj_FUNCTIONNAME', function()
    -- YOUR FUNCTION HERE
 end)
