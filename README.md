@@ -16,7 +16,7 @@
 <h1 align="center">Creating a function</a></h1>  
 
    ```lua
- --- EXAMPLE ---
+------------------------------------------------------ EXAMPLE ------------------------------------------------------
    
 RegisterNetEvent('jj_FUNCTIONNAME')
 AddEventHandler('jj_FUNCTIONNAME', function()
@@ -27,7 +27,7 @@ end)
 <h1 align="center">Perfecting your config</a></h1> 
 
    ```lua
- --- EXAMPLE ---
+------------------------------------------------------ EXAMPLE ------------------------------------------------------
    
     [1] = { -- Purchase a Pickaxe!
     nwrp_blipName           = 'Buy A Pickaxe!',
