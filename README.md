@@ -1,5 +1,3 @@
-DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
-
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
@@ -11,7 +9,7 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 * [STDIN](#stdin)
 * [Local files](#local-files)
 * [Remote files](#remote-files)
-  </a>
+</div>
 
 
 <h1 align="center">What is 'jays_jobs'?</a></h1>  
