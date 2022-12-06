@@ -39,8 +39,8 @@ end)
     y                       = 2743.3557,                - Y Coords
     z                       = 42.6568,                  - Z Coords
     h                       = 278.7386,                 - This is the heading (Only needed if you are using a PED model)
-    nwrp_enablePed          = true, 
-    nwrp_enable3D           = true, 
+    nwrp_enablePed          = true,                     - Set this to false if you do not want a ped at this location!
+    nwrp_enable3D           = true,                     - Set this to false if you do not want floating text on these coords.
     nwrp_promptText         = '~g~Press [E] to purchase pickaxe!', 
     functionName            = 'nwrp_dutyToggle',
     },
