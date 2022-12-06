@@ -16,6 +16,8 @@
 <h1 align="center">Creating a function</a></h1>  
 
    ```lua
+ --- EXAMPLE ---
+   
 RegisterNetEvent('jj_FUNCTIONNAME')
 AddEventHandler('jj_FUNCTIONNAME', function()
    -- YOUR FUNCTION HERE
