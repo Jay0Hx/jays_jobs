@@ -14,12 +14,14 @@
 <h1 align="center">Creating a job</a></h1> 
 
 <h1 align="center">Creating a function</a></h1>  
+
    ```lua
 RegisterNetEvent('jj_FUNCTIONNAME')
 AddEventHandler('jj_FUNCTIONNAME', function()
    -- YOUR FUNCTION HERE
 end)
    ```  
+   
 <h1 align="center">Perfecting your config</a></h1> 
 
 <h1 align="center">What is 'jays_jobs'?</a></h1>  
