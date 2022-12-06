@@ -10,11 +10,11 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
     <a href="https://discord.gg/WHHsDjm73Y">Support</a>
   </p>
     
-   * [Installation](#installation)
-   * [Usage](#usage)
-   * [STDIN](#stdin)
-   * [Local files](#local-files)
-   * [Remote files](#remote-files)
+* [Installation](#installation)
+* [Usage](#usage)
+* [STDIN](#stdin)
+* [Local files](#local-files)
+* [Remote files](#remote-files)
   </a>
 
 
