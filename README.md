@@ -18,10 +18,10 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 ***Support***:
 >https://discord.gg/WHHsDjm73Y
 
-<h1 align="center">Installation Guide</a></h1> 
-
+<h1 align="center">Creating 'Blips'</a></h1> 
+> Head to 'client then job functions'
+   
    ```sh
-   1 > Download the latest release from my GitHub.
    2 > Navigate to your asseto corsa install location!
    3 > Click apps then lua.
    4 > drag alient_v2-main into the lua file.
