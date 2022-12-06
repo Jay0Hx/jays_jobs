@@ -30,15 +30,15 @@ end)
 ------------------------------------------------------ EXAMPLE ------------------------------------------------------
    
     [1] = { -- Purchase a Pickaxe!
-    nwrp_blipName           = 'Buy A Pickaxe!',
-    nwrp_blipType           = 68, 
-    nwrp_blipScale          = 0.8,
-    nwrp_blipColor          = 5,
-    nwrp_enableBlip         = false, 
-    x                       = 2956.8997, 
-    y                       = 2743.3557, 
-    z                       = 42.6568, 
-    h                       = 278.7386, 
+    nwrp_blipName           = 'Buy A Pickaxe!',         - This is the blip name that will appear on the map.
+    nwrp_blipType           = 68,                       - This is the blip type https://docs.fivem.net/docs/game-references/blips/
+    nwrp_blipScale          = 0.8,                      - This is the scale of the blip.
+    nwrp_blipColor          = 5,                        - This is the blip color that you want.
+    nwrp_enableBlip         = false,                    - Set this to false if you do not want a blip on the map for this location!
+    x                       = 2956.8997,                - X Coords
+    y                       = 2743.3557,                - Y Coords
+    z                       = 42.6568,                  - Z Coords
+    h                       = 278.7386,                 - This is the heading (Only needed if you are using a PED model)
     nwrp_enablePed          = true, 
     nwrp_enable3D           = true, 
     nwrp_promptText         = '~g~Press [E] to purchase pickaxe!', 
