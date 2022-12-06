@@ -23,8 +23,7 @@ jays_jobs is my take on a replacement for esx_jobs, personally I feel that esx_j
 
 <details><summary><h1 align="center">Creating a job</a></h1> </summary>
     
-[hi](https://hello.ca)
-    
+
 </details>
 
 <details><summary><h1 align="center">Creating a function</a></h1> </summary>
