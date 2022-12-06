@@ -4,7 +4,7 @@
   </p>
     
 * [Installation](#installation)
-* [Creating a job](#creating_a_job)
+* [Creating a job](#creating-a-job)
 * [STDIN](#stdin)
 * [Local files](#local-files)
 * [Remote files](#remote-files)
