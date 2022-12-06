@@ -18,10 +18,10 @@ DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 ***Support***:
 >https://discord.gg/WHHsDjm73Y
 
-<h1 align="center">Creating 'Blips'</a></h1>  
+<h1 align="center">Creating Functions</a></h1>  
 
 >Head to 'client' then 'job_functions'  
->Create a file labbeled the job that you are making, for example 'butcher.lua'
+>Open the file that you created for the job that you want to create a function for.'
 >Paste the following text into that file
    
    ```lua
@@ -30,3 +30,6 @@ AddEventHandler('jj_FUNCTIONNAME', function()
    -- YOUR FUNCTION HERE
 end)
    ``` 
+   
+>Remove 'YOUR FUNCTION HERE' and input what you want that function to do.
+>Finally add this function to the config where you need it to trigger.
