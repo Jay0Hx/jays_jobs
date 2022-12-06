@@ -17,7 +17,6 @@
     
 </details>
 
-<h1 align="center">Installation</a></h1>  
 
 <h1 align="center">Creating a job</a></h1> 
 
