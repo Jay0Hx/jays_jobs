@@ -33,3 +33,5 @@ end)
    
 >Remove 'YOUR FUNCTION HERE' and input what you want that function to do.
 >Finally add this function to the config where you need it to trigger.
+
+<h1 align="center">Example of how everything works</a></h1> 
