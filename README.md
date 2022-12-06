@@ -3,6 +3,24 @@ A simple (Work in progress) miner script for ESX
 
 DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
 
+<!--ts-->
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Docker](#docker)
+     * [Local](#local)
+     * [Public](#public)
+<!--te-->
+
 <h1 align="center">What is 'jays_jobs'?</a></h1>  
 jays_jobs is my take on a replacement for esx_jobs, personally I feel that esx_jobs is not very well optimised and lacks some features such as easy customisation due to the way that its built etc... Anyway, in creating jays_jobs I wanted to add the ability to easily toggle peds, blips and 3DText at a set of coords, to do this I have used tables and almost everything is handled client side in less than 100 lines of code. I have put an example in the config for 'miner' job, you can remove this or keep it however use this as a base for making a new job. Look at 'Adding a job to config' for tips on how to get this perfect!
 
