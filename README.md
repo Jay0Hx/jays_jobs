@@ -1,8 +1,9 @@
 # jays_miner
 A simple (Work in progress) miner script for ESX
 
-
 DO NOT DOWNLOAD NOT COMPLETED - WAIT FOR RELEASE
+
+<h1 align="center">What is Jays Jobs?</a></h1>
 
 
 ***Features***:
